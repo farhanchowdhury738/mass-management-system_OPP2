@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|f:\\aiub\\final term\\object oriented programming 2 [r]\\project\\scholarsnest\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|f:\\aiub\\final term\\object oriented programming 2 [r]\\project\\scholarsnest\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|f:\\aiub\\final term\\object oriented programming 2 [r]\\project\\scholarsnest\\view\\admindeshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|solutionrelative:view\\admindeshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|f:\\aiub\\final term\\object oriented programming 2 [r]\\project\\scholarsnest\\view\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|solutionrelative:view\\admission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F91E16A4-7F83-48E2-8E57-40ED4C5B82BC}|ScholarsNest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T03:41:00.382Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDeshboard.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\AdminDeshboard.cs",
+              "RelativeDocumentMoniker": "View\\AdminDeshboard.cs",
+              "ToolTip": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\AdminDeshboard.cs [Design]*",
+              "RelativeToolTip": "View\\AdminDeshboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:02:40.52Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Admission.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Admission.cs",
+              "RelativeDocumentMoniker": "View\\Admission.cs",
+              "ToolTip": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Admission.cs [Design]",
+              "RelativeToolTip": "View\\Admission.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:02:36.231Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Login.cs*",
+              "RelativeToolTip": "View\\Login.cs*",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAgwHkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:46:00.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "F:\\AIUB\\FINAL TERM\\OBJECT ORIENTED PROGRAMMING 2 [R]\\PROJECT\\ScholarsNest\\View\\Login.cs [Design]*",
+              "RelativeToolTip": "View\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:45:58.707Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
