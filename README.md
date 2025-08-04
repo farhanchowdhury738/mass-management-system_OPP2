@@ -35,26 +35,70 @@ A Windows Form + ASP.NET-based application that allows students to update and tr
 
 ## 📸 Screenshots
 
-![img1](project%20images/img%20(1).png)
-![img2](project%20images/img%20(2).png)
-![img3](project%20images/img%20(3).png)
-![img4](project%20images/img%20(4).png)
-![img5](project%20images/img%20(5).png)
-![img6](project%20images/img%20(6).png)
-![img7](project%20images/img%20(7).png)
-![img8](project%20images/img%20(8).png)
-![img9](project%20images/img%20(9).png)
-![img10](project%20images/img%20(10).png)
-![img11](project%20images/img%20(11).png)
-![img12](project%20images/img%20(12).png)
-![img13](project%20images/img%20(13).png)
-![img14](project%20images/img%20(14).png)
-![img15](project%20images/img%20(15).png)
-![img16](project%20images/img%20(16).png)
-![img17](project%20images/img%20(17).png)
-![img18](project%20images/img%20(18).png)
-![img19](project%20images/img%20(19).png)
-![img20](project%20images/img%20(20).png)
+
+### 🏠 Welcome Page  
+![Welcome Page](project%20images/img%20(20).png)
+
+
+### 🧑 Student Dashboard  
+![Student Dashboard](project%20images/img%20(10).png)
+
+
+### 👤 Student Profile Update  
+![Student Profile](project%20images/img%20(9).png)
+
+
+### 📧 Email OTP Verification  
+![OTP Verification](project%20images/img%20(1).png)  
+![OTP Entry](project%20images/img%20(2).png)
+
+
+### 🍽️ Meal List  
+![Meal List](project%20images/img%20(7).png)
+
+
+### 📆 Day-wise Meal Update  
+![Day-wise Meal Update](project%20images/img%20(6).png)
+
+
+### 💰 Deposit Account  
+![Deposit Account](project%20images/img%20(5).png)
+
+
+### 🧾 Deposit Payment History  
+![Payment History](project%20images/img%20(3).png)
+
+
+### 📝 Submit Complaint  
+![Submit Complaint](project%20images/img%20(4).png)
+
+
+---
+
+## 🧑‍💼 Admin Panel
+
+### 🔧 Admin Dashboard  
+![Admin Dashboard](project%20images/img%20(14).png)
+
+
+### 📋 Complaint List (Admin View)  
+![Admin Complaints](project%20images/img%20(11).png)
+
+
+### 🧑 Student List (Admin View)  
+![Admin Student List](project%20images/img%20(16).png)
+
+---
+
+## 🧑‍🍳 Manager Panel
+
+### 📋 Manager Dashboard  
+![Manager Dashboard](project%20images/img%20(17).png)
+
+
+### ✏️ Update Meals (Manager Access)  
+![Manager Meal Update](project%20images/img%20(15).png)
+
 
 ---
 
